@@ -28,6 +28,8 @@ This web application is to write your memories, contents and experiences of your
 - PHP
 
 ## 作成者
+トキヤ ムラマツ
+
 Tokiya　Muramatsu
 
 ## 最後に
