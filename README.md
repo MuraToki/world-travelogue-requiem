@@ -3,9 +3,9 @@
 &nbsp;
 
 ## 世界旅行記とは 『このWebアプリケーションの概要』
-これは、海外で起こったを共有しあうWebアプリです。実際、僕は海外に行ったことがないので、海外の出来事が知りたいから作りました。
+このWebアプリは、世界中を旅した思い出、内容や体験を書くものです。私は海外に行ったことがない。なので、世界のことをよく知りたいと思ってこのWebアプリを作成しました。
 
-This is a web application to share experiences that happened abroad. Actually, I have never been abroad, so I created it because I want to know what happened abroad.
+This web application is to write memories, content and experiences of traveling around the world. I have never been abroad. Therefore, I created this web app to learn more about the world.
 
 ## 世界旅行記の機能一覧
 - 投稿機能
@@ -33,7 +33,7 @@ Tokiya　Muramatsu
 ## License
 このWebアプリを使ってあなたの旅行の思い出を教えて下さい！
 
-Please let us know your experience using this web app!
+Please let us know your travel memories using this web app!
 
 ありがとうございます！
 
