@@ -29,6 +29,7 @@ This web application is to write memories, content and experiences of traveling 
 
 ## Author
 Tokiya　Muramatsu
+むらまつ ときや
 
 ## License
 このWebアプリを使ってあなたの旅行の思い出を教えて下さい！
