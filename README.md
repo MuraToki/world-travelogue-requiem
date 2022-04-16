@@ -27,10 +27,10 @@ This web application is to write your memories, contents and experiences of your
 - Laravel
 - PHP
 
-## Author
+## 作成者
 Tokiya　Muramatsu
 
-## License
+## 最後に
 このWebアプリを使ってあなたの旅行の思い出を教えて下さい！
 
 Please let us know your travel memories using this web app!
