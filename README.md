@@ -21,9 +21,6 @@ This is a web application to share experiences that happened abroad. Actually, I
 - 画像投稿機能（Cloudinaryという画像投稿APIを使用）
 - バリデーション
 
-## 注意
-画像を投稿した時、時間が経つと消えます。
-
 ## 世界体験記内で使用している技術一覧
 - デプロイはherokuを使用
 - データベースはMySQLを使用
