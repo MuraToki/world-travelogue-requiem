@@ -1,57 +1,45 @@
 
+<h1 align="center">ようこそ 世界旅行記へ!!</h1>
+&nbsp;
 
-## About Laravel
+## 世界旅行記とは 『このWebアプリケーションの概要』
+これは、海外で起こったを共有しあうWebアプリです。実際、僕は海外に行ったことがないので、海外の出来事が知りたいから作りました。
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This is a web application to share experiences that happened abroad. Actually, I have never been abroad, so I created it because I want to know what happened abroad.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 世界旅行記の機能一覧
+- 投稿機能
+- 投稿にコメント機能
+- コメントの削除
+- コメントの編集
+- ログイン・ログアウトのような認証機能
+- ゲストログインの機能も搭載
+- ページネーション機能
+- いいね機能
+- 投稿の削除機能
+- 検索機能
+- 画像投稿機能（Cloudinaryという画像投稿APIを使用）
+- バリデーション
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 注意
+画像を投稿した時、時間が経つと消えます。
 
-## Learning Laravel
+## 世界体験記内で使用している技術一覧
+- デプロイはherokuを使用
+- データベースはMySQLを使用
+- Laravel
+- PHP
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Author
+Tokiya　Muramatsu
 
 ## License
+このWebアプリを使ってあなたの旅行の思い出を教えて下さい！
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Please let us know your experience using this web app!
+
+ありがとうございます！
+
+Thank you！
+  
+
