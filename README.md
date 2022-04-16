@@ -5,7 +5,7 @@
 ## 世界旅行記とは 『このWebアプリケーションの概要』
 このWebアプリは、世界中を旅した思い出、内容や体験を書くものです。国名と旅行の内容と画像を投稿することができます。皆様の旅行の思い出、観光した国や場所を書いてください。このWebアプリは無料で新規登録とログインができます。ログインや新規登録が面倒くさいと思う人がいるでしょう。その人達のために、ゲストユーザーとしてゲストログインできる機能も備えてあります。このWebアプリを実際に使用するときも無料です。
 
-This web application is to write your memories, contents and experiences of your travels around the world. You can submit your country name, the content of your trip and images. Please write your travel memories, countries and places you have visited. This web app is free of charge and you can register and log in. Some people may find logging in and registering a new account a hassle. For them, there is a function that allows you to log in as a guest user. The actual use of this web app is also free.
+This web application is to write your memories, contents and experiences of your travels around the world. You can submit country name, the content of your trip and images. Please write your travel memories, countries and places you have visited. This web app is free of charge and you can register and log in. Some people may find logging in and registering a new account a hassle. For them, there is a function that allows you to log in as a guest user. The actual use of this web app is also free.
 
 ## 世界旅行記の機能一覧
 - 投稿機能
