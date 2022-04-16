@@ -7,8 +7,6 @@
 
 This web application is to write your memories, contents and experiences of your travels around the world. You can submit your country name, the content of your trip and images. Please write your travel memories, countries and places you have visited. This web app is free of charge and you can register and log in. Some people may find logging in and registering a new account a hassle. For them, there is a function that allows you to log in as a guest user. The actual use of this web app is also free.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## 世界旅行記の機能一覧
 - 投稿機能
 - 投稿の削除機能
