@@ -20,6 +20,7 @@ This web application is to write your memories, contents and experiences of your
 - 検索機能
 - 画像投稿機能（Cloudinaryという画像投稿APIを使用）
 - バリデーション
+- Aboutページも追加
 
 ## 世界旅行記内で使用している技術一覧
 - デプロイはherokuを使用
