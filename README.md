@@ -9,6 +9,7 @@ This web application is to write memories, content and experiences of traveling 
 
 ## 世界旅行記の機能一覧
 - 投稿機能
+- 投稿の削除機能
 - 投稿にコメント機能
 - コメントの削除
 - コメントの編集
@@ -16,7 +17,6 @@ This web application is to write memories, content and experiences of traveling 
 - ゲストログインの機能も搭載
 - ページネーション機能
 - いいね機能
-- 投稿の削除機能
 - 検索機能
 - 画像投稿機能（Cloudinaryという画像投稿APIを使用）
 - バリデーション
