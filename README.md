@@ -18,7 +18,7 @@ This web application is to write your memories, contents and experiences of your
 - ページネーション機能
 - いいね機能
 - 検索機能
-- 画像投稿機能（Cloudinaryという画像投稿APIを使用）
+- 画像投稿機能（[Cloudinary](https://cloudinary.com/)という画像投稿APIを使用）
 - バリデーション
 - Aboutページも追加
 
