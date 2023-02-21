@@ -42,4 +42,5 @@ Please let us know your travel memories using this web app!
 
 Thank you！
   
-
+## 追加
+このWebアプリは停止しています。
